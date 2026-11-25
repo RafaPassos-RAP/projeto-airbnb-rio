@@ -1,0 +1,9 @@
+# dados (ignora os arquivos, mantém as pastas)
+data/**/*
+!data/**/
+!data/**/.gitkeep
+
+# arquivos automáticos
+.ipynb_checkpoints/
+__pycache__/
+.venv/
